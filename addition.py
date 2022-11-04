@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Michael Zagon
-# Created on: Sep 2021
+# Created by: Lucas LeBlanc
+# Created on: Nov 2022
 # This program adds each whole number that goes up to the users number
 
 
@@ -34,4 +34,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
